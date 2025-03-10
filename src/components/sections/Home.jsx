@@ -10,7 +10,7 @@ const Home = () => {
                 </h1>
 
                 <p className="text-grey-400 text-lg mb-8 max-w-lg mx-auto">
-                    a problem-solver, tech enthusiast, and software engineer.
+                    a problem-solver, tech enthusiast, and software developer.
                     I love crafting clean code,
                     building APIs, and turning ideas into reality.
                     My goal is to innovate and develop software that makes technology
