@@ -36,7 +36,7 @@ const About = () => {
                 </h2>
 
                 <div className="flex justify-center mb-8">
-                    <img src="src/assets/IMG_1369.jpeg" alt="Your Name" className="w-60 h-60 rounded-full border-4 border-blue-500 shadow-lg hover:shadow-xl transition-all" />
+                    <img src="src/assets/IMG_1369.jpeg" alt="" className="w-60 h-60 rounded-full border-4 border-blue-500 shadow-lg hover:shadow-xl transition-all" />
                 </div>
 
                 <div
